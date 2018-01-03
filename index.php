@@ -11,6 +11,6 @@
 		</form><br>
 
 		<p><em>*</em>The maximum size file allowed is 80MB </p><br>
-		<a href="/listfiles.php">List Uploaded Files</a>
+		<a href="/listfiles.php">View Uploaded Files</a>
 <p> Information about your server <a href="info.php">here</a></p>
 <?php require_once("includes/footer.php") ?>
