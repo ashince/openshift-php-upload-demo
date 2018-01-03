@@ -10,7 +10,7 @@
 			<input type="submit" value="Upload" name="submit">
 		</form><br>
 
-		<p><em>*</em>The maximum size file allowed is 20480KB (20MB)</p><br>
+		<p><em>*</em>The maximum size file allowed is 80MB </p><br>
 		<a href="/listfiles.php">List Uploaded Files</a>
 <p> Information about your server <a href="info.php">here</a></p>
 <?php require_once("includes/footer.php") ?>
